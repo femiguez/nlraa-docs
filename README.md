@@ -7,4 +7,6 @@ Documentation for nonlinear regression models
 
 [Bootstrapping and Simulation](https://femiguez.github.io/nlraa-docs/Bootstrapping.html)
 
-[Agronomy Journal paper (Archontoulis and Miguez(2015)](https://femiguez.github.io/nlraa-docs/nlraa-AgronJ-paper.html)
+[Archontoulis and Miguez(2015) - Agronomy Journal](https://femiguez.github.io/nlraa-docs/nlraa-AgronJ-paper.html)
+
+[Oddi et al. (2019) - Ecology and Evolutionl](https://femiguez.github.io/nlraa-docs/nlraa-Oddi-LFMC.html)
